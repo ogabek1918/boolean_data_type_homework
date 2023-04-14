@@ -8,5 +8,5 @@ def main(a,b):
         bool
     """
     # Write your code here
-    return a == b 
-print(main(8,8))
+    return a == b
+print(main(1 , 1))
